@@ -21,7 +21,7 @@ MyPass is a simple and user-friendly Windows application designed to manage and 
 2. **Generate a Password**: Click the "Generate Password" button to create a new password.
 3. **Enter Details**: Fill in the website, email, and generated or custom password in the respective fields.
 4. **Save Your Credentials**: Click the "Add" button to save your details to a file on your Desktop.
-5. **Retrieve Information**: Open `my_pass.txt` on your Desktop to view your saved credentials.
+5. **Retrieve Information**: Open `my_pass.txt` on your Desktop to view your saved credentials or type your website in Mypass software and click 'Search' button.
 
 ## File Locations
 
