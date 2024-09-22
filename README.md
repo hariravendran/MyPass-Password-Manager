@@ -6,7 +6,7 @@ MyPass is a simple and user-friendly Windows application designed to manage and 
 
 - **Password Generation**: Generate strong and secure passwords with a single click.
 - **Password Storage**: Save your website, email, and password securely.
-- **Easy Access**: Quickly retrieve your saved credentials from your Desktop or Search from the MyPass software.
+- **Easy Access**: Quickly retrieve your saved credentials from your Documents folder or Search from the MyPass software.
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 
 ## Installation
@@ -25,7 +25,7 @@ MyPass is a simple and user-friendly Windows application designed to manage and 
 
 ## File Locations
 
-- **Password File**: `my_pass.txt` will be saved to your Desktop by default.
+- **Password File**: `my_pass.txt` will be saved to your Documents folder by default.
 
 ## License
 
