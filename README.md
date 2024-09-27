@@ -2,7 +2,6 @@
 
 MyPass is a simple and user-friendly Windows application designed to manage and securely store your passwords. With MyPass, you can easily generate strong passwords, save your credentials, and access them whenever needed.
 ![demo](https://github.com/user-attachments/assets/bd4b4ebe-9e9d-4965-98ef-c9138f72b2c4)
-
 ## Features
 
 - **Password Generation**: Generate strong and secure passwords with a single click.
